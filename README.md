@@ -2,6 +2,8 @@
 
 This is a monitoring Node Red flow that listens on UDP port 18542 IPv4 for the Batrium broadcasts
 
+Copy the contents of the flow file and import from the clipboard into node red - it should create a new flow.
+
 Tested with a Watchmon4
 
 HW ver 4.2
